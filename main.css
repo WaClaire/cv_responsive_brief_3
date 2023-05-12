@@ -91,14 +91,6 @@ body{
     justify-content: center;
 }
 
-.contact{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    font-weight: 500;
-}
-
-
     /* RESPONSIVE PAGE */
 
 @media (max-width: 899px) {
